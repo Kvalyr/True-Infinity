@@ -4,9 +4,9 @@
   "package": "io.github.FourInchKnife.trueinfinity.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
+    "InfinityEnchantmentMixin"
   ],
   "client": [
-    "InfinityEnchantmentMixin"
   ],
   "injectors": {
     "defaultRequire": 1
