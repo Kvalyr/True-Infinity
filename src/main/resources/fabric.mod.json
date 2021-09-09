@@ -9,13 +9,13 @@
     "ryleu"
   ],
   "contact": {
-    "sources": "https://github.com/ryleu/True-Infinity"
+    "sources": "https://github.com/ryleu/True-Infinity",
+    "issues": "https://github.com/ryleu/True-Infinity/issues"
   },
 
   "license": "GPL-3.0-only",
   "icon": "assets/trueinfinity/icon.png",
 
-  "environment": "*",
   "entrypoints": {
     "main": [
       "me.ryleu.trueinfinity.TrueInfinity"

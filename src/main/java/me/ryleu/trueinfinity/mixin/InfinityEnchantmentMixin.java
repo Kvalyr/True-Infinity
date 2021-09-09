@@ -6,6 +6,7 @@ import net.minecraft.enchantment.InfinityEnchantment;
 import net.minecraft.entity.EquipmentSlot;
 import org.spongepowered.asm.mixin.Mixin;
 
+@SuppressWarnings("unused")
 @Mixin(InfinityEnchantment.class)
 public abstract class InfinityEnchantmentMixin extends Enchantment{
 	public InfinityEnchantmentMixin(Rarity weight, EquipmentSlot... slotTypes) {

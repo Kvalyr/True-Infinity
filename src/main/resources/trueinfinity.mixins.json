@@ -6,8 +6,6 @@
   "mixins": [
     "InfinityEnchantmentMixin"
   ],
-  "client": [
-  ],
   "injectors": {
     "defaultRequire": 1
   }
