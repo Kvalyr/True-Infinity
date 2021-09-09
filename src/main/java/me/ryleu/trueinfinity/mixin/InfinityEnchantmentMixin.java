@@ -1,4 +1,4 @@
-package io.github.FourInchKnife.trueinfinity.mixin;
+package me.ryleu.trueinfinity.mixin;
 
 import net.minecraft.enchantment.Enchantment;
 import net.minecraft.enchantment.EnchantmentTarget;

@@ -1,4 +1,4 @@
-package io.github.FourInchKnife.trueinfinity;
+package me.ryleu.trueinfinity;
 
 import net.fabricmc.api.ModInitializer;
 

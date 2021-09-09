@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "id": "fourinchknife-trueinfinity",
+  "id": "ryleu-trueinfinity",
   "version": "${version}",
 
   "name": "True Infinity",
   "description": "Lets you enchant a bow with both mending and infinity.",
   "authors": [
-    "FourInchKnife"
+    "ryleu"
   ],
   "contact": {
-    "sources": "https://github.com/FourInchKnife/True-Infinity"
+    "sources": "https://github.com/ryleu/True-Infinity"
   },
 
   "license": "GPL-3.0-only",
@@ -18,7 +18,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "io.github.FourInchKnife.trueinfinity.TrueInfinity"
+      "me.ryleu.trueinfinity.TrueInfinity"
     ]
   },
   "mixins": [
@@ -29,5 +29,9 @@
     "fabricloader": ">=0.7.4",
     "fabric": "*",
     "minecraft": "1.17.x"
+  },
+
+  "breaks": {
+    "fourinchknife-trueinfinity": "*"
   }
 }
